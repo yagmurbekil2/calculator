@@ -2,9 +2,10 @@
 
 <img src="img/image.png" width="400">
 
-Bu proje, C# ve WPF (Windows Presentation Foundation) teknolojileri kullanılarak geliştirilmiş, estetik ve fonksiyonel bir hesap makinesi uygulamasıdır. Yazılım mühendisliği prensiplerine uygun olarak olay tabanlı (event-driven) bir mimariyle kodlanmıştır.
 
-✨ Öne Çıkan Özellikler
+Bu proje, C# ve WPF (Windows  Presentation Foundation) teknolojileri kullanılarak geliştirilmiş, estetik ve fonksiyonel bir hesap makinesi uygulamasıdır. Yazılım mühendisliği prensiplerine uygun olarak olay tabanlı (event-driven) bir mimariyle kodlanmıştır.
+
+✨ Öne Çıkan Özellikler 
 
 * İşlem Takibi: GecmisEkran (TextBlock) üzerinden yapılan işlemin tüm aşamaları (örn: 67 + 88) gri renkte şeffaf bir şekilde izlenebilir.
 
@@ -21,6 +22,7 @@ Bu proje, C# ve WPF (Windows Presentation Foundation) teknolojileri kullanılara
 🛠 Teknik Detaylar
 
 Stil ve Tasarım (XAML)
+
 Projenin görsel kimliği tamamen XAML kaynakları üzerinden yönetilmektedir:
 
 * Custom Templates: Standart buton yapısı CornerRadius="60" ile dairesel bir forma dönüştürülmüştür.
