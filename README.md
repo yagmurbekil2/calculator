@@ -1,6 +1,6 @@
 🌸 Modern Calculator (WPF)
 
-<img src="img/image_c96a9d.png" width="400">
+<img src="img/image.png" width="400">
 
 Bu proje, C# ve WPF (Windows Presentation Foundation) teknolojileri kullanılarak geliştirilmiş, estetik ve fonksiyonel bir hesap makinesi uygulamasıdır. Yazılım mühendisliği prensiplerine uygun olarak olay tabanlı (event-driven) bir mimariyle kodlanmıştır.
 
